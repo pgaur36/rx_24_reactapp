@@ -1,1 +1,1 @@
-# rx_24_reactapp
+# Rx-Aushadhi-ReactApp
